@@ -1,5 +1,6 @@
 # SoldierWars
-Reinventing the original iPod parachute game.  
+Reinventing the original iPod parachute game.
+
 A game with multithreading where you control a tank and shoot down enemies. Press the space bar to shoot your cannon. Shooting bombs once will create a fireball, and shooting it again will kill the fireball. You have a limited amount of health, and have the option to exchange health for ammo by pressing "H". Press "R" to restart the game at any time.
 
 Game was coded with Java and has multiple levels you can progress through until the boss battle.
